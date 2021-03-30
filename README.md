@@ -1,3 +1,3 @@
 # Microservice-Netflix
-Travail effectué avec Willima Loubat
+Travail effectué avec William Loubat
 Chaque branche correspond à un webservice
